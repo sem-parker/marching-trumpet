@@ -9,3 +9,4 @@ Valve1Sub is a sub-assembly. It contains two parts ( Valve1End , Valve1Slide )\
 Valve3Sub is a sub-assembly. It contains two parts ( Valve3End , Valve3Slide )\
 All parts are named to convention with modern trumpet nomenclature\
 PistonSample is not in the full assembly. It is a trial run for an upcoming version that will contain pistons.\
+Currently v1
