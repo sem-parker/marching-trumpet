@@ -1,5 +1,5 @@
 # marching-trumpet
-Marching-optimized trumpet
+Marching-optimized trumpet\
 OVERVIEW\
 Center of mass is moved closer to performer, to improve endurance while marching. Bore and bell profile are optimized for acoustic requirements of marching band. Tubing/slide lengths tuned exactly for performance at Lucas Oil Stadium at 16.5 degrees Celsius. Other optimization/changes with further iterations.\
 FILE DESCRIPTIONS\
